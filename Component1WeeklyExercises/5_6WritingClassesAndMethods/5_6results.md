@@ -2,11 +2,11 @@
 15 marks  
 **to be committed by 16th March (extra week given and more work)**
 
-1 Sphere   --todo  
-2 Books   --todo  
-3 Bulb  --todo  
-4 Account --todo  
-5 Cards --todo
+1 Sphere   --complete 
+2 Books   --complete  
+3 Bulb  --complete  
+4 Account --complete  
+5 Cards --complete
 
 Please replace **todo** with **complete** when done.  
 Record your progress on the OOP Form on README.md.
